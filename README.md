@@ -35,7 +35,7 @@ The code is implemented in Python 3.8+ and relies on PyTorch. We recommend runni
 
 1. Clone the repository:
    
-   git clone https://github.com/YOUR_USERNAME/C-PGA-Official.git
+   git clone https://github.com/YOUR_USERNAME/C-PGA.git
    cd C-PGA-Official
 
 2. Install dependencies:
@@ -84,7 +84,7 @@ Due to intellectual property constraints, the full dataset (648 samples) is not 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Contact
 
