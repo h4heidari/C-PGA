@@ -2,7 +2,7 @@
 
 This repository contains the official PyTorch implementation of the paper:
 
-**"Coupled Physics-Gated Adaptation: Gating 3D Visual Features for Physics-Aware Volumetric Prediction"**
+**"Coupled Physics-Gated Adaptation: Spatially Decoding Volumetric Photochemical Conversion in Complex 3D-Printed Objects"**
 
 *Submitted to Nature Machine Intelligence*
 
