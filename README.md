@@ -14,13 +14,15 @@ Standard computer vision models often struggle with coupled physical systems whe
 
 ## Repository Structure
 
+```text
 .
 ├── C-PGA.ipynb              # Main Jupyter notebook (Architecture, Training, Analysis)
 ├── README.md                # Project documentation
 ├── requirements.txt         # List of Python dependencies
+├── LICENSE                  # MIT License file
 └── data/                    # Demonstration dataset folder
-    ├── demo_dataset.xlsx    # Subset of 15 samples (Numerical parameters & Targets)
-    └── images/              # Subset of 15 image stacks (Original & Transformed)
+    ├── demo_dataset.xlsx    # Subset of 10 samples (Numerical parameters & Targets)
+    └── images/              # Subset of 5 image stacks (Original & Transformed)
 
 ## Getting Started
 
