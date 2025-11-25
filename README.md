@@ -23,6 +23,7 @@ Standard computer vision models often struggle with coupled physical systems whe
 └── data/                    # Demonstration dataset folder
     ├── demo_dataset.xlsx    # Subset of 10 samples (Numerical parameters & Targets)
     └── images/              # Subset of 5 image stacks (Original & Transformed)
+```
 
 ## Getting Started
 
