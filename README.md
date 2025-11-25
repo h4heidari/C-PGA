@@ -58,7 +58,6 @@ The repository includes a `data/` folder with 15 representative samples. This al
 
 2. Ensure the configuration flag in **Step 1** of the notebook is set to `True`:
 
-   # Configuration: Set to True for Demo (15 samples), False for Full Training
    DEMO_MODE = True
 
 3. **Run All Cells**:
